@@ -1,7 +1,7 @@
 This procedure has been adopted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)”.
 
 -------------------------------------------------------------------------------------------------
-Be sure to have a good understanding of our Code of Conduct policy, which can be found here: [https://github.com/nickelcityruby/code-of-conduct/blob/master/code_of_conduct.md](https://github.com/nickelcityruby/code-of-conduct/blob/master/code_of_conduct.md)
+Be sure to have a good understanding of our Code of Conduct policy, which can be found [here](https://github.com/CodeDaze/code-of-conduct/blob/master/code_of_conduct.md)
 
 Try to get as much of the incident in written form by the reporter. If you cannot, transcribe it yourself as it was told to you. The important information to gather include the following:
 
@@ -11,7 +11,7 @@ Try to get as much of the incident in written form by the reporter. If you canno
  - The circumstances surrounding the incident
  - Other people involved in the incident
 
-Prepare an initial response to the incident. This initial response is very important and will set the tone for NickelCityRuby. Depending on the severity/details of the incident, please follow these guidelines:
+Prepare an initial response to the incident. This initial response is very important and will set the tone for CodeDaze. Depending on the severity/details of the incident, please follow these guidelines:
 
  - If there is any general threat to attendees or the safety of anyone including conference staff is in doubt, summon security or police
  - Offer the victim a private place to sit
