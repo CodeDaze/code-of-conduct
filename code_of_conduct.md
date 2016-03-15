@@ -1,17 +1,17 @@
-NickelCityRuby is a community conference intended for networking and collaboration in the developer community.
+CodeDaze is a community conference intended for networking and collaboration in the developer community.
 
-We value the participation of each member of the Ruby community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by NickelCityRuby or not.
+We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by CodeDaze or not.
 
-To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any NickelCityRuby event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
+To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any CodeDaze event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 The Short Version
 -----------------
 
-NickelCityRuby is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
+CodeDaze is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
-Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for NickelCityRuby.
+Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for CodeDaze.
 
 Attendees violating these rules may be asked to leave the conference without a refund at the sole discretion of the conference organizers.
 
@@ -33,20 +33,19 @@ If a participant engages in behavior that violates this code of conduct, the con
 Contact Information
 -------------------
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "NickelCityRuby Staff" t-shirts. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; Nick Quaranto
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff. Conference staff will be wearing "NickelCityRuby Staff" identifiers. You may also contact hotel staff and ask to be put in touch with the conference chair &mdash; PJ Hagerty
 
 If the matter is especially urgent, please call/contact any of these individuals:
 
-- Amanda Quaranto at +1 (814) 746-0478
-- Nick Quaranto at +1 (716) 200-3538
+- PJ Hagerty at +1 (716) 319-0509
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
 Procedure for Handling Harassment
 ---------------------------------
 
-- [Attendee Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md)
-- [Staff Procedure for incident handling](https://github.com/nickelcityruby/code-of-conduct/blob/master/staff_procedure_for_incident_handling.md)
+- [Attendee Procedure for incident handling](https://github.com/CodeDaze/code-of-conduct/blob/master/attendee_procedure_for_incident_handling.md)
+- [Staff Procedure for incident handling](https://github.com/CodeDaze/code-of-conduct/blob/master/staff_procedure_for_incident_handling.md)
 
 License
 -------
